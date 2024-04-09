@@ -12,7 +12,7 @@ My current research interests are
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canertol&layout=compact&hide_border=true&size_weight=0.8&count_weight=0.2&hide=html,systemverilog,javascript&hide_progress=true" align="right">
 
 You can learn find me on
-- [canertol.com](canertol.com)
+- [canertol.com](https://canertol.com)
 - [LinkedIn](https://www.linkedin.com/in/canertol)
 - [my CV](https://canertol.com/assets/pdf/Caner_Tol_Resume.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=8RW20C8AAAAJ&hl=en)
