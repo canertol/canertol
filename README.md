@@ -9,7 +9,7 @@ My current research interests are
 - Attacks on ML models and other critical software
 - Automated detection and patching of μarch vulnerabilities using AI
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canertol&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=html" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canertol&layout=compact&hide_border=true&size_weight=0.8&count_weight=0.2&hide=html,systemverilog,javascript&hide_progress=true" align="right">
 
 You can learn find me on
 - [canertol.com](canertol.com)
