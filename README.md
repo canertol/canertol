@@ -8,11 +8,13 @@ My current research interests are
 - Side-channel and Fault Injection attacks
 - Attacks on ML models and other critical software
 - Automated detection and patching of μarch vulnerabilities using AI
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canertol&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" align="right">
 
-You can find me on
+You can learn find me on
 - [canertol.com](canertol.com)
-- [my CV](https://canertol.com/assets/pdf/Caner_Tol_Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/canertol)
+- [my CV](https://canertol.com/assets/pdf/Caner_Tol_Resume.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=8RW20C8AAAAJ&hl=en)
 - [X](x.com/canertol)
 
