@@ -16,7 +16,7 @@ You can learn find me on
 - [LinkedIn](https://www.linkedin.com/in/canertol)
 - [my CV](https://canertol.com/assets/pdf/Caner_Tol_Resume.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=8RW20C8AAAAJ&hl=en)
-- [Bluesky](https://bsky.app/profile/canertol.bsky.social)
+- [Bluesky](https://bsky.app/profile/canertol.com)
 
 <!--
 **canertol/canertol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
