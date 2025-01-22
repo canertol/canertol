@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am a Ph.D. candidate at Vernam Lab, WPI, advised by Berk Sunar.
+I am a recent Ph.D. graduate from Vernam Lab, WPI, advised by Berk Sunar.
 
 My current research interests are
 
